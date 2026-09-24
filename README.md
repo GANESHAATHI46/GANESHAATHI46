@@ -56,9 +56,9 @@ mission:
   "Build useful software and turn ideas into production-ready products."
 ```
 
-I’m a **Software Developer** who enjoys building complete products from the first idea to deployment.
+I’m a **Software Developer** focused on building modern web applications, mobile apps, APIs, automation tools, developer utilities, and cloud-ready systems.
 
-I work across the full development lifecycle:
+My goal is to understand and work across the complete software lifecycle — not just one layer.
 
 ```text
 Idea
@@ -86,17 +86,6 @@ Monitoring
 Production 🚀
 ```
 
-I’m especially interested in building:
-
-- Modern SaaS applications
-- Developer productivity tools
-- Automation platforms
-- Mobile applications
-- REST APIs
-- Offline-first applications
-- Cloud-native systems
-- AI-assisted developer products
-
 ---
 
 # ⚡ Tech Universe
@@ -106,12 +95,6 @@ I’m especially interested in building:
 ### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css,nextjs&perline=8" />
-
-<br/><br/>
-
-### Mobile
-
-<img src="https://skillicons.dev/icons?i=react,ts,sqlite&perline=3" />
 
 <br/><br/>
 
@@ -133,7 +116,7 @@ I’m especially interested in building:
 
 <br/><br/>
 
-### Development Tools
+### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&perline=5" />
 
@@ -146,15 +129,15 @@ I’m especially interested in building:
 | Area | Technologies |
 |---|---|
 | Frontend | React, React Native, TypeScript, JavaScript, Vite, Tailwind CSS |
-| Backend | Python, Django, Django REST Framework, FastAPI, Laravel, Node.js |
+| Backend | Python, Django, DRF, FastAPI, Laravel, Node.js |
 | Databases | PostgreSQL, MySQL, SQLite, Redis |
 | DevOps | Docker, Kubernetes, Helm, Terraform, Jenkins, GitHub Actions |
 | Cloud | AWS, Vercel, Cloudflare |
-| Web Servers | Nginx |
-| API & Testing | REST APIs, Postman, Swagger/OpenAPI |
-| Mobile | React Native, Expo, Offline-first apps |
-| Architecture | SaaS, API-driven apps, modular backend design |
-| Workflow | Git, GitHub, CI/CD, deployment automation |
+| API | REST API, Swagger / OpenAPI, Postman |
+| Mobile | React Native, Expo, Offline-first applications |
+| Web Server | Nginx |
+| Workflow | Git, GitHub, CI/CD, Deployment Automation |
+| Architecture | SaaS, API-driven systems, modular backend design |
 
 ---
 
@@ -167,23 +150,23 @@ I’m especially interested in building:
 
 ## 🖼️ Image Scraper Pro
 
-A commercial-grade image scraping and image-processing platform designed for fast collection, filtering, optimization, and download workflows.
+A commercial-grade image scraping and processing platform designed for fast image collection, filtering, optimization, and download workflows.
 
 ### Highlights
 - Keyword-based image discovery
-- Manual selection workflow
+- Manual image selection
 - Duplicate detection
 - Smart crop
 - Resize processing
 - ZIP export
 - Authentication
-- Licensing architecture
+- Licensing system
 - Device binding
 - Admin dashboard
-- Cloud-ready deployment
+- Cloud-ready backend
 
 ### Stack
-`React` `Python` `FastAPI` `Flask` `Cloudflare` `Docker`
+`React` `Python` `Flask` `FastAPI` `Docker` `Cloudflare`
 
 </td>
 
@@ -191,13 +174,12 @@ A commercial-grade image scraping and image-processing platform designed for fas
 
 ## 🌍 Focus Tourism Eventz
 
-A production tourism and events platform focused on performance, SEO, responsive UI, and scalable backend architecture.
+A production tourism and events platform focused on responsive UI, performance, SEO, and scalable backend architecture.
 
 ### Highlights
-- Responsive React UI
-- Performance optimization
+- Responsive React interface
 - Lazy loading
-- Bundle splitting
+- Bundle optimization
 - SEO improvements
 - Django REST backend architecture
 - PostgreSQL
@@ -218,14 +200,14 @@ A production tourism and events platform focused on performance, SEO, responsive
 
 ## 🛒 Mei Alai
 
-A modern full-stack e-commerce platform with product management, APIs, database workflows, and administration tools.
+A modern full-stack e-commerce platform with product management, APIs, customer workflows, and administration tools.
 
 ### Highlights
 - Product management
 - Customer workflows
 - Admin dashboard
 - API-driven architecture
-- Swagger / API documentation
+- Swagger documentation
 - Inventory management
 
 ### Stack
@@ -237,13 +219,13 @@ A modern full-stack e-commerce platform with product management, APIs, database 
 
 ## 💰 Namma Kanakku
 
-An offline-first personal finance mobile application designed for simple daily expense and money tracking.
+An offline-first personal finance mobile application designed for simple daily money and expense management.
 
 ### Highlights
 - Daily reports
 - Weekly reports
 - Monthly reports
-- Offline storage
+- Offline SQLite storage
 - Tamil-focused UI
 - PDF export
 - Date-based transaction management
@@ -261,17 +243,16 @@ An offline-first personal finance mobile application designed for simple daily e
 
 ## 🤖 Leo AI Assistant
 
-A local-first personal desktop AI assistant designed for developer workflows.
+A local-first desktop AI assistant designed for developer workflows.
 
 ### Highlights
 - Ollama integration
 - Local LLM support
 - Tamil / Tanglish interaction
 - Developer utilities
-- Local-first architecture
+- Local command workflows
 - FastAPI desktop companion
 - Safe Markdown rendering
-- Local command workflows
 
 ### Stack
 `Python` `FastAPI` `JavaScript` `Ollama`
@@ -306,7 +287,7 @@ A WhatsApp-inspired realtime messaging platform architecture designed for scalab
 
 ## 🧭 GT Holidays Extractor
 
-A tour-package extraction and data-processing system built to collect structured travel data.
+A tour package extraction and data-processing system built to collect structured travel data.
 
 ### Highlights
 - Generic scraper architecture
@@ -317,7 +298,7 @@ A tour-package extraction and data-processing system built to collect structured
 - API + frontend workflow
 
 ### Stack
-`FastAPI` `Python` `HTTPX` `BeautifulSoup` `React` `TypeScript`
+`Python` `FastAPI` `HTTPX` `BeautifulSoup` `React` `TypeScript`
 
 </td>
 
@@ -355,7 +336,7 @@ A mobile application for marriage-function collection management and offline rec
 - Bulk save
 - OCR-assisted entry
 - CSV / PDF export
-- Local storage
+- Local database
 
 ### Stack
 `React Native` `Expo` `TypeScript` `SQLite`
@@ -366,13 +347,14 @@ A mobile application for marriage-function collection management and offline rec
 
 ## 🎮 Namma Ooru Quest
 
-A Tamil Nadu inspired Unity game concept with district-based environments and local visual themes.
+A Tamil Nadu inspired Unity game project with district-based environments and local visual elements.
 
 ### Highlights
 - Stylized Tamil Nadu environment
 - Runner gameplay
-- Local NPC concepts
-- Temple and village visual elements
+- NPC concepts
+- Local village visual themes
+- Temple and signage concepts
 - Performance optimization planning
 
 ### Stack
@@ -406,7 +388,7 @@ Database Design
       ↓
 Docker
       ↓
-CI/CD
+CI / CD
       ↓
 AWS
       ↓
@@ -423,7 +405,33 @@ Production Engineering
 
 ---
 
-# 🛰️ Engineering Journey
+# 🔥 Coding Streak
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=GANESHAATHI46&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+> I removed the broken GitHub Stats and Activity Graph services from this README, so you won't get those broken-image icons.
+
+---
+
+# 🐍 Contribution Animation
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GANESHAATHI46/GANESHAATHI46/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GANESHAATHI46/GANESHAATHI46/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/GANESHAATHI46/GANESHAATHI46/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+# 🛰️ Developer Journey
 
 ```text
                     ┌──────────────────────┐
@@ -519,89 +527,6 @@ const ganesh = {
 
 ---
 
-# 🏗️ How I Build Products
-
-```mermaid
-flowchart LR
-    A[Idea] --> B[Research]
-    B --> C[UI/UX]
-    C --> D[Frontend]
-    D --> E[Backend API]
-    E --> F[Database]
-    F --> G[Testing]
-    G --> H[Docker]
-    H --> I[CI/CD]
-    I --> J[Cloud]
-    J --> K[Production]
-```
-
-> If GitHub does not render Mermaid in your current view, the rest of the README will still work normally.
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=GANESHAATHI46&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GANESHAATHI46&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GANESHAATHI46&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-
-</div>
-
----
-
-# 📈 Development Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GANESHAATHI46&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-# 🐍 Contribution Animation
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GANESHAATHI46/GANESHAATHI46/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GANESHAATHI46/GANESHAATHI46/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/GANESHAATHI46/GANESHAATHI46/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-# 🧪 Development Principles
-
-I try to follow these principles while building software:
-
-- Keep the UI simple and clear
-- Build reusable components
-- Keep APIs consistent
-- Validate input properly
-- Handle loading, empty, and error states
-- Avoid unnecessary dependencies
-- Write maintainable code
-- Optimize performance before production
-- Use environment variables safely
-- Containerize when useful
-- Automate deployments
-- Keep learning from real-world problems
-
----
-
 # ☁️ DevOps & Cloud Focus
 
 ```text
@@ -642,12 +567,11 @@ I enjoy working on backend systems that include:
 - PostgreSQL schema design
 - Redis caching
 - File uploads
-- Background jobs
 - API documentation
-- Rate limiting
 - Validation
 - Error handling
 - Logging
+- Rate limiting
 - Deployment-ready configuration
 
 ---
@@ -682,6 +606,25 @@ I build mobile applications with:
 - Local data persistence
 - PDF / CSV export
 - Tamil-focused interfaces
+
+---
+
+# 🧪 Development Principles
+
+I try to follow these principles while building software:
+
+- Keep the UI simple and clear
+- Build reusable components
+- Keep APIs consistent
+- Validate input properly
+- Handle loading, empty, and error states
+- Avoid unnecessary dependencies
+- Write maintainable code
+- Optimize performance before production
+- Use environment variables safely
+- Containerize when useful
+- Automate deployments
+- Keep learning from real-world problems
 
 ---
 
