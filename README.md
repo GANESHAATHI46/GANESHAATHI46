@@ -1,194 +1,172 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=GANESH%20A&fontSize=58&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Cloud%20%7C%20DevOps&descAlignY=58&color=0:0f172a,45:312e81,100:7c3aed"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&text=GANESH%20A&fontSize=65&fontColor=FFFFFF&fontAlignY=42&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL%20STACK%20%7C%20CLOUD%20%26%20DEVOPS&descSize=14&descAlignY=65&color=0:09090B,50:18181B,100:312E81&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=800&color=8B5CF6&center=true&vCenter=true&width=950&lines=Full+Stack+Developer;React+%7C+React+Native+%7C+Python+%7C+Laravel;Building+Production-Ready+Applications;Docker+%7C+AWS+%7C+Kubernetes+%7C+DevOps;Turning+Ideas+Into+Real+Products;Learning+%E2%86%92+Building+%E2%86%92+Shipping+%E2%86%92+Improving" alt="Typing SVG" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=A1A1AA&center=true&vCenter=true&width=850&lines=Building+Digital+Experiences.;Engineering+Real-World+Software.;Full+Stack+%7C+Mobile+%7C+Cloud+%7C+DevOps.;Build.+Learn.+Improve.+Repeat." alt="Developer introduction" />
 
 <br/><br/>
 
 <a href="https://www.ganeshdeveloper.in/">
-  <img src="https://img.shields.io/badge/Portfolio-ganeshdeveloper.in-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000" />
 </a>
-
 <a href="https://www.linkedin.com/in/ganesh-software-developer/">
-  <img src="https://img.shields.io/badge/LinkedIn-Ganesh_A-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-18181B?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
 </a>
-
 <a href="https://github.com/GANESHAATHI46">
-  <img src="https://img.shields.io/badge/GitHub-GANESHAATHI46-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=GANESHAATHI46&style=for-the-badge&label=PROFILE+VIEWS&color=7c3aed"/>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=GANESHAATHI46&style=flat-square&color=71717A&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 01 / About Me
+
+I'm **Ganesh A**, a Software Developer from Tamil Nadu, India.
+
+I enjoy building modern web applications, mobile applications, backend APIs, automation systems, and cloud-ready software.
+
+My approach goes beyond writing code. I focus on understanding the complete software development lifecycle — from an initial idea to deployment and continuous improvement.
 
 ```yaml
-name: Ganesh A
-github: GANESHAATHI46
-role: Software Developer
-location: Tamil Nadu, India
-
-focus:
-  - Full Stack Development
-  - Frontend Engineering
-  - Backend APIs
-  - Mobile Applications
-  - Cloud Engineering
-  - DevOps
-  - Automation
-  - SaaS Products
-
-currently_learning:
-  - AWS
-  - Docker
-  - Kubernetes
-  - Terraform
-  - Jenkins
-  - DevSecOps
-  - System Design
-  - Scalable Backend Architecture
-
-mission:
-  "Build useful software and turn ideas into production-ready products."
-```
-
-I’m a **Software Developer** focused on building modern web applications, mobile apps, APIs, automation tools, developer utilities, and cloud-ready systems.
-
-My goal is to understand and work across the complete software lifecycle — not just one layer.
-
-```text
-Idea
- ↓
-Planning
- ↓
-UI / UX
- ↓
-Frontend
- ↓
-Backend API
- ↓
-Database
- ↓
-Testing
- ↓
-Docker
- ↓
-CI / CD
- ↓
-Cloud
- ↓
-Monitoring
- ↓
-Production 🚀
+developer:
+  name: Ganesh A
+  username: GANESHAATHI46
+  role: Software Developer
+  location: Tamil Nadu, India
+  engineering:
+    - Full Stack Development
+    - Frontend Engineering
+    - Backend APIs
+    - Mobile Applications
+    - Automation
+    - SaaS Products
+    - Cloud Engineering
+    - DevOps
+  currently_exploring:
+    - AWS
+    - Docker
+    - Kubernetes
+    - Terraform
+    - Jenkins
+    - DevSecOps
+    - System Design
+  philosophy: "Build useful software. Make it reliable. Keep improving."
 ```
 
 ---
 
-# ⚡ Tech Universe
+## 02 / Technology Universe
 
 <div align="center">
 
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css,nextjs&perline=8" />
-
-<br/><br/>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,laravel,nodejs&perline=5" />
+<p><strong>FRONTEND ENGINEERING</strong></p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vite,tailwind,html,css&theme=dark" />
 
 <br/><br/>
 
-### Databases & Caching
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis&perline=4" />
-
-<br/><br/>
-
-### Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,nginx,githubactions&perline=7" />
+<p><strong>BACKEND ENGINEERING</strong></p>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,laravel,nodejs&theme=dark" />
 
 <br/><br/>
 
-### Tools
+<p><strong>DATABASES & CACHING</strong></p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&perline=5" />
+<br/><br/>
+
+<p><strong>CLOUD & DEVOPS</strong></p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,nginx,githubactions&theme=dark" />
+
+<br/><br/>
+
+<p><strong>DEVELOPMENT TOOLS</strong></p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" />
 
 </div>
 
 ---
 
-# 🧩 Skills Snapshot
+## 03 / Engineering Capabilities
 
-| Area | Technologies |
-|---|---|
-| Frontend | React, React Native, TypeScript, JavaScript, Vite, Tailwind CSS |
-| Backend | Python, Django, DRF, FastAPI, Laravel, Node.js |
-| Databases | PostgreSQL, MySQL, SQLite, Redis |
-| DevOps | Docker, Kubernetes, Helm, Terraform, Jenkins, GitHub Actions |
-| Cloud | AWS, Vercel, Cloudflare |
-| API | REST API, Swagger / OpenAPI, Postman |
-| Mobile | React Native, Expo, Offline-first applications |
-| Web Server | Nginx |
-| Workflow | Git, GitHub, CI/CD, Deployment Automation |
-| Architecture | SaaS, API-driven systems, modular backend design |
+| Domain | Technologies & Skills |
+| :--- | :--- |
+| **Frontend** | React, React Native, TypeScript, JavaScript, Vite, Tailwind CSS |
+| **Backend** | Python, Django, DRF, FastAPI, Laravel, Node.js |
+| **Database** | PostgreSQL, MySQL, SQLite, Redis |
+| **Mobile** | React Native, Expo, Offline-first applications |
+| **Cloud** | AWS, Vercel, Cloudflare |
+| **DevOps** | Docker, Kubernetes, Helm, Terraform, Jenkins |
+| **CI/CD** | GitHub Actions, Deployment Automation |
+| **API** | REST API, Swagger, OpenAPI, Postman |
+| **Web Server** | Nginx |
+| **Architecture** | SaaS, API-driven systems, Modular Backend Design |
 
 ---
 
-# 🚀 Featured Projects
+## 04 / Featured Projects
+
+A collection of applications, platforms, automation tools and software engineering projects.
+
+<div align="center">
+  <p><strong>PROJECT COLLECTION</strong></p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:71717A,50:A1A1AA,100:71717A" width="100%" />
+</div>
+
+<br/>
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 🖼️ Image Scraper Pro
+### 01. Image Scraper Pro
 
-A commercial-grade image scraping and processing platform designed for fast image collection, filtering, optimization, and download workflows.
+A commercial-grade image scraping and processing platform designed for image discovery, filtering, optimization and download workflows.
 
-### Highlights
+#### Key Features
 - Keyword-based image discovery
 - Manual image selection
 - Duplicate detection
-- Smart crop
-- Resize processing
+- Smart crop and resize
 - ZIP export
-- Authentication
-- Licensing system
+- Authentication and licensing
 - Device binding
 - Admin dashboard
 - Cloud-ready backend
 
-### Stack
+#### Stack
 `React` `Python` `Flask` `FastAPI` `Docker` `Cloudflare`
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🌍 Focus Tourism Eventz
+### 02. Focus Tourism Eventz
 
-A production tourism and events platform focused on responsive UI, performance, SEO, and scalable backend architecture.
+A tourism and events platform focused on responsive interfaces, performance, SEO and scalable backend architecture.
 
-### Highlights
+#### Key Features
 - Responsive React interface
 - Lazy loading
 - Bundle optimization
 - SEO improvements
-- Django REST backend architecture
-- PostgreSQL
+- Backend API architecture
+- PostgreSQL integration
 - Cloud deployment planning
 
-### Stack
+#### Stack
 `React` `Vite` `Tailwind CSS` `Django` `PostgreSQL` `AWS`
 
-🌐 [Visit Website](https://www.focustourismeventz.com/)
+<br/>
+
+🌐 [Visit Project](https://www.focustourismeventz.com/)
 
 </td>
 
@@ -198,11 +176,11 @@ A production tourism and events platform focused on responsive UI, performance, 
 
 <td width="50%" valign="top">
 
-## 🛒 Mei Alai
+### 03. Mei Alai
 
-A modern full-stack e-commerce platform with product management, APIs, customer workflows, and administration tools.
+A full-stack e-commerce platform with product management, customer workflows and administration tools.
 
-### Highlights
+#### Key Features
 - Product management
 - Customer workflows
 - Admin dashboard
@@ -210,27 +188,25 @@ A modern full-stack e-commerce platform with product management, APIs, customer 
 - Swagger documentation
 - Inventory management
 
-### Stack
+#### Stack
 `React` `Vite` `Laravel` `Filament` `MySQL`
 
 </td>
 
 <td width="50%" valign="top">
 
-## 💰 Namma Kanakku
+### 04. Namma Kanakku
 
-An offline-first personal finance mobile application designed for simple daily money and expense management.
+An offline-first personal finance mobile application designed for daily money and expense management.
 
-### Highlights
-- Daily reports
-- Weekly reports
-- Monthly reports
+#### Key Features
+- Daily, weekly and monthly reports
 - Offline SQLite storage
-- Tamil-focused UI
+- Tamil-focused interface
 - PDF export
 - Date-based transaction management
 
-### Stack
+#### Stack
 `React Native` `Expo` `TypeScript` `SQLite`
 
 </td>
@@ -241,11 +217,11 @@ An offline-first personal finance mobile application designed for simple daily m
 
 <td width="50%" valign="top">
 
-## 🤖 Leo AI Assistant
+### 05. Leo AI Assistant
 
-A local-first desktop AI assistant designed for developer workflows.
+A local-first desktop AI assistant designed to support developer workflows.
 
-### Highlights
+#### Key Features
 - Ollama integration
 - Local LLM support
 - Tamil / Tanglish interaction
@@ -254,19 +230,19 @@ A local-first desktop AI assistant designed for developer workflows.
 - FastAPI desktop companion
 - Safe Markdown rendering
 
-### Stack
+#### Stack
 `Python` `FastAPI` `JavaScript` `Ollama`
 
 </td>
 
 <td width="50%" valign="top">
 
-## 💬 ChatG
+### 06. ChatG
 
-A WhatsApp-inspired realtime messaging platform architecture designed for scalability.
+A WhatsApp-inspired real-time messaging platform architecture designed with scalability in mind.
 
-### Highlights
-- Realtime messaging
+#### Key Features
+- Real-time messaging
 - WebSockets
 - Authentication
 - Redis caching
@@ -274,7 +250,7 @@ A WhatsApp-inspired realtime messaging platform architecture designed for scalab
 - Media storage architecture
 - Mobile-first experience
 
-### Stack
+#### Stack
 `React Native` `NestJS` `PostgreSQL` `Redis`
 
 </td>
@@ -285,37 +261,37 @@ A WhatsApp-inspired realtime messaging platform architecture designed for scalab
 
 <td width="50%" valign="top">
 
-## 🧭 GT Holidays Extractor
+### 07. GT Holidays Extractor
 
-A tour package extraction and data-processing system built to collect structured travel data.
+A tour package extraction and data-processing system for collecting structured travel information.
 
-### Highlights
+#### Key Features
 - Generic scraper architecture
 - Dynamic metadata extraction
 - Price and currency detection
 - CSV / Excel export
 - Secure URL handling
-- API + frontend workflow
+- API and frontend workflow
 
-### Stack
+#### Stack
 `Python` `FastAPI` `HTTPX` `BeautifulSoup` `React` `TypeScript`
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🎯 Client Hunter
+### 08. Client Hunter
 
 A lead-discovery and prospecting tool focused on business data extraction and scoring.
 
-### Highlights
+#### Key Features
 - Location-based lead discovery
 - Business scoring
 - CSV export
 - Excel export
 - Search and filtering workflows
 
-### Stack
+#### Stack
 `Python` `Streamlit` `Pandas` `OpenPyXL`
 
 </td>
@@ -326,30 +302,30 @@ A lead-discovery and prospecting tool focused on business data extraction and sc
 
 <td width="50%" valign="top">
 
-## 📱 PaperCollect
+### 09. PaperCollect
 
 A mobile application for marriage-function collection management and offline record keeping.
 
-### Highlights
+#### Key Features
 - Offline-first workflow
-- Tamil UI
+- Tamil interface
 - Bulk save
 - OCR-assisted entry
 - CSV / PDF export
 - Local database
 
-### Stack
+#### Stack
 `React Native` `Expo` `TypeScript` `SQLite`
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🎮 Namma Ooru Quest
+### 10. Namma Ooru Quest
 
-A Tamil Nadu inspired Unity game project with district-based environments and local visual elements.
+A Tamil Nadu-inspired Unity game project featuring district-based environments and local visual elements.
 
-### Highlights
+#### Key Features
 - Stylized Tamil Nadu environment
 - Runner gameplay
 - NPC concepts
@@ -357,7 +333,7 @@ A Tamil Nadu inspired Unity game project with district-based environments and lo
 - Temple and signage concepts
 - Performance optimization planning
 
-### Stack
+#### Stack
 `Unity` `C#`
 
 </td>
@@ -367,199 +343,133 @@ A Tamil Nadu inspired Unity game project with district-based environments and lo
 
 ---
 
-# 🧠 Currently Learning
+## 05 / Developer Journey
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2200&pause=650&color=A78BFA&center=true&vCenter=true&width=950&lines=AWS+Cloud+Architecture;Docker+Containerization;Kubernetes+Orchestration;Terraform+Infrastructure+as+Code;Jenkins+%26+GitHub+Actions;DevSecOps+%26+Cloud+Security;Scalable+Backend+Architecture;System+Design;Production+Monitoring+%26+Reliability" />
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=65&text=IDEA%20%E2%86%92%20ENGINEERING%20%E2%86%92%20PRODUCTION&fontSize=18&fontColor=FFFFFF&color=0:18181B,50:27272A,100:312E81" />
 </div>
 
 <br/>
 
 ```text
-Current Learning Roadmap
+┌──────────────────────┐
+│         IDEA         │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│       UI / UX        │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│       FRONTEND       │
+│   React / React RN   │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│       BACKEND        │
+│   APIs / Services    │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│       DATABASE       │
+│  PostgreSQL / Redis  │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│        DEVOPS        │
+│   Docker / CI / CD   │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│        CLOUD         │
+│     AWS / Infra      │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│    PRODUCTION 🚀     │
+└──────────────────────┘
+```
 
+---
+
+## 06 / Currently Learning
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=A1A1AA&center=true&vCenter=true&width=800&lines=AWS+Cloud+Architecture;Docker+Containerization;Kubernetes+Orchestration;Terraform+Infrastructure+as+Code;Jenkins+%26+GitHub+Actions;DevSecOps+%26+Cloud+Security;System+Design+%26+Scalable+Architecture" />
+</div>
+
+<br/>
+
+| Learning Path | Focus |
+| :--- | :--- |
+| **AWS** | Cloud infrastructure and architecture |
+| **Docker** | Containerization |
+| **Kubernetes** | Container orchestration |
+| **Terraform** | Infrastructure as Code |
+| **Jenkins** | CI/CD automation |
+| **GitHub Actions** | Automated workflows |
+| **DevSecOps** | Security integration |
+| **System Design** | Scalable architecture |
+
+<br/>
+
+#### Learning Roadmap
+
+```text
 Frontend Mastery
-      ↓
+       ↓
 Backend Architecture
-      ↓
+       ↓
 Database Design
-      ↓
+       ↓
 Docker
-      ↓
+       ↓
 CI / CD
-      ↓
+       ↓
 AWS
-      ↓
+       ↓
 Terraform
-      ↓
+       ↓
 Kubernetes
-      ↓
+       ↓
 DevSecOps
-      ↓
+       ↓
 System Design
-      ↓
+       ↓
 Production Engineering
 ```
 
 ---
 
-# 🔥 Coding Streak
+## 07 / GitHub Analytics
 
 <div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=GANESHAATHI46&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
-> I removed the broken GitHub Stats and Activity Graph services from this README, so you won't get those broken-image icons.
-
----
-
-# 🐍 Contribution Animation
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GANESHAATHI46/GANESHAATHI46/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GANESHAATHI46/GANESHAATHI46/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/GANESHAATHI46/GANESHAATHI46/output/github-contribution-grid-snake.svg">
-</picture>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GANESHAATHI46&show_icons=true&hide_border=true&bg_color=09090B&title_color=FFFFFF&text_color=A1A1AA&icon_color=A78BFA&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GANESHAATHI46&layout=compact&hide_border=true&bg_color=09090B&title_color=FFFFFF&text_color=A1A1AA" />
+  <br/><br/>
+  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=GANESHAATHI46&theme=transparent&hide_border=true&background=09090B&ring=A78BFA&fire=FFFFFF&currStreakLabel=A1A1AA&sideLabels=A1A1AA&dates=71717A" />
 </div>
 
 ---
 
-# 🛰️ Developer Journey
+## 08 / Contribution Graph
 
-```text
-                    ┌──────────────────────┐
-                    │         IDEA         │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │       UI / UX        │
-                    │  Product Experience  │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │       FRONTEND       │
-                    │ React / RN / Vite    │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │       BACKEND        │
-                    │ APIs / Services      │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │       DATABASE       │
-                    │ PostgreSQL / Redis   │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │        DEVOPS        │
-                    │ Docker / CI / CD     │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │        CLOUD         │
-                    │ AWS / Kubernetes     │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │     PRODUCTION 🚀    │
-                    └──────────────────────┘
-```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GANESHAATHI46/GANESHAATHI46/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
+</div>
 
 ---
 
-# 🎯 Current Mission
+## 09 / Backend Engineering Focus
 
-```javascript
-const ganesh = {
-  username: "GANESHAATHI46",
-
-  role: "Software Developer",
-
-  goal: "Become a strong Full Stack + Cloud + DevOps Engineer",
-
-  building: [
-    "SaaS Products",
-    "Developer Tools",
-    "Web Applications",
-    "Mobile Applications",
-    "Automation Systems",
-    "Cloud-ready Platforms"
-  ],
-
-  learning: [
-    "AWS",
-    "Docker",
-    "Kubernetes",
-    "Terraform",
-    "CI/CD",
-    "DevSecOps",
-    "System Design",
-    "Scalable Backend Architecture"
-  ],
-
-  engineeringValues: [
-    "Clean Code",
-    "Performance",
-    "Security",
-    "Maintainability",
-    "Automation",
-    "Scalability"
-  ],
-
-  mindset: "Build → Learn → Improve → Deploy"
-};
-```
-
----
-
-# ☁️ DevOps & Cloud Focus
-
-```text
-Source Code
-   ↓
-Git / GitHub
-   ↓
-Automated Testing
-   ↓
-Docker Image
-   ↓
-CI Pipeline
-   ↓
-Security Checks
-   ↓
-Deployment
-   ↓
-Cloud Infrastructure
-   ↓
-Monitoring
-   ↓
-Production
-```
-
-Technologies I’m actively exploring and practicing:
-
-`Docker` `Kubernetes` `Helm` `Terraform` `Jenkins` `GitHub Actions` `AWS` `Nginx` `Linux`
-
----
-
-# 🧰 Backend Focus
-
-I enjoy working on backend systems that include:
+I enjoy working with backend systems that include:
 
 - REST API architecture
 - Authentication and authorization
@@ -568,7 +478,7 @@ I enjoy working on backend systems that include:
 - Redis caching
 - File uploads
 - API documentation
-- Validation
+- Data validation
 - Error handling
 - Logging
 - Rate limiting
@@ -576,27 +486,26 @@ I enjoy working on backend systems that include:
 
 ---
 
-# 🎨 Frontend Focus
+## 10 / Frontend Engineering Focus
 
-My frontend work usually focuses on:
+My frontend development approach focuses on:
 
 - Responsive interfaces
 - Reusable components
 - Modern layouts
-- Performance
+- Performance optimization
 - Accessibility
 - API integration
-- Loading states
-- Error states
+- Loading and error states
 - Mobile responsiveness
 - Clean visual hierarchy
 - Production-ready UI
 
 ---
 
-# 📱 Mobile Development
+## 11 / Mobile Development
 
-I build mobile applications with:
+Technologies and practices:
 
 - React Native
 - Expo
@@ -609,57 +518,76 @@ I build mobile applications with:
 
 ---
 
-# 🧪 Development Principles
+## 12 / Development Principles
 
-I try to follow these principles while building software:
+```javascript
+const engineeringPrinciples = [
+  "Clean Architecture",
+  "Maintainable Code",
+  "Performance",
+  "Security",
+  "Scalability",
+  "Automation",
+  "Accessibility",
+  "Real-world Usability",
+  "Continuous Improvement"
+];
 
-- Keep the UI simple and clear
-- Build reusable components
-- Keep APIs consistent
-- Validate input properly
-- Handle loading, empty, and error states
-- Avoid unnecessary dependencies
-- Write maintainable code
-- Optimize performance before production
-- Use environment variables safely
-- Containerize when useful
-- Automate deployments
-- Keep learning from real-world problems
-
----
-
-# 🧠 What I Care About
-
-> Build software that solves a real problem, stays maintainable, performs well, and can grow with its users.
-
-I care about:
-
-- Clean architecture
-- Real-world usability
-- Performance
-- Security
-- Scalability
-- Automation
-- Maintainability
-- Good developer experience
-- Continuous learning
+const mindset = "Build → Learn → Improve → Repeat";
+```
 
 ---
 
-# 📌 Goals
+## 13 / Cloud & DevOps Workflow
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,aws,nginx&theme=dark" />
+</div>
+
+<br/>
 
 ```text
-Short Term
+Source Code
+    ↓
+Git / GitHub
+    ↓
+Automated Testing
+    ↓
+Docker Image
+    ↓
+CI Pipeline
+    ↓
+Security Checks
+    ↓
+Deployment
+    ↓
+Cloud Infrastructure
+    ↓
+Monitoring
+    ↓
+Production
+```
+
+**Technologies I'm exploring:**
+
+`Docker` `Kubernetes` `Helm` `Terraform` `Jenkins` `GitHub Actions` `AWS` `Nginx` `Linux`
+
+---
+
+## 14 / Goals & Vision
+
+```text
+Short-Term Goals
 ├── Strengthen Full Stack Development
 ├── Improve AWS knowledge
-├── Practice Docker & Kubernetes
+├── Practice Docker and Kubernetes
 ├── Learn Terraform deeply
 ├── Build production CI/CD pipelines
 └── Improve system design
 
-Long Term
+Long-Term Goals
 ├── Build scalable SaaS products
-├── Become strong in Cloud + DevOps
+├── Become strong in Cloud and DevOps
 ├── Design reliable production systems
 ├── Contribute to larger engineering projects
 └── Keep shipping useful products
@@ -667,7 +595,7 @@ Long Term
 
 ---
 
-# 🤝 Open To
+## 15 / Open To Collaborations
 
 - Full Stack Development
 - Frontend Development
@@ -675,37 +603,35 @@ Long Term
 - React / React Native projects
 - Python backend projects
 - Laravel projects
-- Cloud & DevOps learning collaborations
+- Cloud & DevOps collaborations
 - SaaS product development
 - Developer tools
 - Automation projects
 
 ---
 
-# 🌐 Connect With Me
+## 16 / Connect With Me
 
 <div align="center">
+  <a href="https://www.ganeshdeveloper.in/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-18181B?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" />
+  </a>
+  <a href="https://www.linkedin.com/in/ganesh-software-developer/">
+    <img src="https://img.shields.io/badge/LINKEDIN-Connect-18181B?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
+  </a>
+  <a href="https://github.com/GANESHAATHI46">
+    <img src="https://img.shields.io/badge/GITHUB-Follow-18181B?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  </a>
 
-<a href="https://www.ganeshdeveloper.in/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+  <br/><br/>
 
-<a href="https://www.linkedin.com/in/ganesh-software-developer/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=A1A1AA&center=true&vCenter=true&width=750&lines=Building+Useful+Things.;Learning+Every+Day.;Turning+Ideas+Into+Products.;Engineering+Better+Software." />
 
-<a href="https://github.com/GANESHAATHI46">
-<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <br/><br/>
 
-<br/><br/>
+  ### BUILD · LEARN · IMPROVE · REPEAT
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1000&color=8B5CF6&center=true&width=800&lines=Building+Useful+Things+%F0%9F%9A%80;Learning+Every+Day+%F0%9F%A7%A0;Turning+Ideas+Into+Products+%E2%9A%A1;Shipping+Better+Software+Every+Day" />
+  <br/>
 
-### ⚡ Build • Learn • Improve • Repeat
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f172a,45:312e81,100:7c3aed"/>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=110&section=footer&color=0:09090B,50:18181B,100:312E81" />
 </div>
