@@ -1,0 +1,164 @@
+<svg width="940" height="320" viewBox="0 0 940 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0E0E14" />
+      <stop offset="50%" stop-color="#08080B" />
+      <stop offset="100%" stop-color="#050507" />
+    </linearGradient>
+
+    <!-- Card Gradient -->
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#181822" />
+      <stop offset="100%" stop-color="#0B0B10" />
+    </linearGradient>
+
+    <!-- Card Border Gradient -->
+    <linearGradient id="cardBorderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF2020" stop-opacity="0.8" />
+      <stop offset="40%" stop-color="#8B0000" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#1F0407" stop-opacity="0.6" />
+    </linearGradient>
+
+    <!-- Laser Connector Gradient -->
+    <linearGradient id="laserLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B0000" />
+      <stop offset="50%" stop-color="#FF2020" />
+      <stop offset="100%" stop-color="#8B0000" />
+    </linearGradient>
+
+    <!-- Glow Filter -->
+    <filter id="crimsonGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <marker id="redArrow" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#FF2020" />
+    </marker>
+    <marker id="redArrowRev" markerWidth="6" markerHeight="6" refX="1" refY="3" orient="auto">
+      <path d="M6,0 L0,3 L6,6 Z" fill="#FF2020" />
+    </marker>
+  </defs>
+
+  <!-- Container Frame -->
+  <rect x="2" y="2" width="936" height="316" rx="14" fill="url(#bgGrad)" stroke="#220609" stroke-width="1.5" />
+  <rect x="6" y="6" width="928" height="308" rx="10" stroke="#FF2020" stroke-opacity="0.12" stroke-width="1" />
+
+  <!-- Corner Tech Accents -->
+  <path d="M 2 24 L 2 2 L 24 2" stroke="#FF2020" stroke-width="2.5" fill="none" />
+  <path d="M 938 24 L 938 2 L 916 2" stroke="#FF2020" stroke-width="2.5" fill="none" />
+  <path d="M 2 296 L 2 318 L 24 318" stroke="#FF2020" stroke-width="2.5" fill="none" />
+  <path d="M 938 296 L 938 318 L 916 318" stroke="#FF2020" stroke-width="2.5" fill="none" />
+
+  <!-- CONNECTOR TRACKS (Row 1) -->
+  <line x1="210" y1="80" x2="252" y2="80" stroke="#FF2020" stroke-width="2" marker-end="url(#redArrow)" filter="url(#crimsonGlow)" />
+  <line x1="420" y1="80" x2="462" y2="80" stroke="#FF2020" stroke-width="2" marker-end="url(#redArrow)" filter="url(#crimsonGlow)" />
+  <line x1="630" y1="80" x2="672" y2="80" stroke="#FF2020" stroke-width="2" marker-end="url(#redArrow)" filter="url(#crimsonGlow)" />
+
+  <!-- Turn from Node 4 to Node 5 -->
+  <path d="M 780 125 L 780 155 Q 780 170 765 170 L 730 170 Q 715 170 715 185 L 715 200" stroke="#FF2020" stroke-width="2" fill="none" stroke-dasharray="4,3" opacity="0.8" />
+  <circle cx="780" cy="125" r="3" fill="#FF2020" />
+  <circle cx="715" cy="200" r="3" fill="#FF2020" />
+
+  <!-- CONNECTOR TRACKS (Row 2 - Right to Left) -->
+  <line x1="680" y1="245" x2="638" y2="245" stroke="#FF2020" stroke-width="2" marker-end="url(#redArrowRev)" filter="url(#crimsonGlow)" />
+  <line x1="470" y1="245" x2="428" y2="245" stroke="#FF2020" stroke-width="2" marker-end="url(#redArrowRev)" filter="url(#crimsonGlow)" />
+  <line x1="260" y1="245" x2="218" y2="245" stroke="#FF2020" stroke-width="2" marker-end="url(#redArrowRev)" filter="url(#crimsonGlow)" />
+
+  <!-- ROW 1 CARDS -->
+
+  <!-- Card 1: IDEA -->
+  <g transform="translate(40, 35)">
+    <rect width="170" height="90" rx="10" fill="url(#cardGrad)" stroke="url(#cardBorderGrad)" stroke-width="1.5" />
+    <rect x="0" y="0" width="170" height="2" fill="#FF2020" />
+    <rect x="14" y="14" width="28" height="18" rx="4" fill="#3D0007" stroke="#FF2020" stroke-width="1" />
+    <text x="28" y="27" fill="#FF2020" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" text-anchor="middle">01</text>
+    <text x="50" y="28" fill="#FFFFFF" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" font-weight="700">IDEA</text>
+    <text x="14" y="55" fill="#E4E4E7" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="600">Product Vision</text>
+    <text x="14" y="72" fill="#8B949E" font-family="'Segoe UI', system-ui, sans-serif" font-size="11">Concept &amp; Scope</text>
+  </g>
+
+  <!-- Card 2: UI / UX -->
+  <g transform="translate(250, 35)">
+    <rect width="170" height="90" rx="10" fill="url(#cardGrad)" stroke="url(#cardBorderGrad)" stroke-width="1.5" />
+    <rect x="0" y="0" width="170" height="2" fill="#FF2020" />
+    <rect x="14" y="14" width="28" height="18" rx="4" fill="#3D0007" stroke="#FF2020" stroke-width="1" />
+    <text x="28" y="27" fill="#FF2020" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" text-anchor="middle">02</text>
+    <text x="50" y="28" fill="#FFFFFF" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" font-weight="700">UI / UX</text>
+    <text x="14" y="55" fill="#E4E4E7" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="600">Design System</text>
+    <text x="14" y="72" fill="#8B949E" font-family="'Segoe UI', system-ui, sans-serif" font-size="11">Wireframes &amp; Flows</text>
+  </g>
+
+  <!-- Card 3: FRONTEND -->
+  <g transform="translate(460, 35)">
+    <rect width="170" height="90" rx="10" fill="url(#cardGrad)" stroke="url(#cardBorderGrad)" stroke-width="1.5" />
+    <rect x="0" y="0" width="170" height="2" fill="#FF2020" />
+    <rect x="14" y="14" width="28" height="18" rx="4" fill="#3D0007" stroke="#FF2020" stroke-width="1" />
+    <text x="28" y="27" fill="#FF2020" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" text-anchor="middle">03</text>
+    <text x="50" y="28" fill="#FFFFFF" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" font-weight="700">FRONTEND</text>
+    <text x="14" y="55" fill="#E4E4E7" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="600">React • Next.js</text>
+    <text x="14" y="72" fill="#8B949E" font-family="'Segoe UI', system-ui, sans-serif" font-size="11">React Native • Vite</text>
+  </g>
+
+  <!-- Card 4: BACKEND -->
+  <g transform="translate(670, 35)">
+    <rect width="230" height="90" rx="10" fill="url(#cardGrad)" stroke="url(#cardBorderGrad)" stroke-width="1.5" />
+    <rect x="0" y="0" width="230" height="2" fill="#FF2020" />
+    <rect x="14" y="14" width="28" height="18" rx="4" fill="#3D0007" stroke="#FF2020" stroke-width="1" />
+    <text x="28" y="27" fill="#FF2020" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" text-anchor="middle">04</text>
+    <text x="50" y="28" fill="#FFFFFF" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" font-weight="700">BACKEND</text>
+    <text x="14" y="55" fill="#E4E4E7" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="600">Python • FastAPI • Django</text>
+    <text x="14" y="72" fill="#8B949E" font-family="'Segoe UI', system-ui, sans-serif" font-size="11">Laravel • Node.js • APIs</text>
+  </g>
+
+  <!-- ROW 2 CARDS -->
+
+  <!-- Card 5: DATABASE -->
+  <g transform="translate(670, 200)">
+    <rect width="230" height="90" rx="10" fill="url(#cardGrad)" stroke="url(#cardBorderGrad)" stroke-width="1.5" />
+    <rect x="0" y="0" width="230" height="2" fill="#FF2020" />
+    <rect x="14" y="14" width="28" height="18" rx="4" fill="#3D0007" stroke="#FF2020" stroke-width="1" />
+    <text x="28" y="27" fill="#FF2020" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" text-anchor="middle">05</text>
+    <text x="50" y="28" fill="#FFFFFF" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" font-weight="700">DATABASE</text>
+    <text x="14" y="55" fill="#E4E4E7" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="600">PostgreSQL • MySQL</text>
+    <text x="14" y="72" fill="#8B949E" font-family="'Segoe UI', system-ui, sans-serif" font-size="11">Redis • SQLite • Caching</text>
+  </g>
+
+  <!-- Card 6: DEVOPS -->
+  <g transform="translate(460, 200)">
+    <rect width="170" height="90" rx="10" fill="url(#cardGrad)" stroke="url(#cardBorderGrad)" stroke-width="1.5" />
+    <rect x="0" y="0" width="170" height="2" fill="#FF2020" />
+    <rect x="14" y="14" width="28" height="18" rx="4" fill="#3D0007" stroke="#FF2020" stroke-width="1" />
+    <text x="28" y="27" fill="#FF2020" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" text-anchor="middle">06</text>
+    <text x="50" y="28" fill="#FFFFFF" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" font-weight="700">DEVOPS</text>
+    <text x="14" y="55" fill="#E4E4E7" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="600">Docker • CI / CD</text>
+    <text x="14" y="72" fill="#8B949E" font-family="'Segoe UI', system-ui, sans-serif" font-size="11">GitHub Actions • Jenkins</text>
+  </g>
+
+  <!-- Card 7: CLOUD -->
+  <g transform="translate(250, 200)">
+    <rect width="170" height="90" rx="10" fill="url(#cardGrad)" stroke="url(#cardBorderGrad)" stroke-width="1.5" />
+    <rect x="0" y="0" width="170" height="2" fill="#FF2020" />
+    <rect x="14" y="14" width="28" height="18" rx="4" fill="#3D0007" stroke="#FF2020" stroke-width="1" />
+    <text x="28" y="27" fill="#FF2020" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" text-anchor="middle">07</text>
+    <text x="50" y="28" fill="#FFFFFF" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" font-weight="700">CLOUD</text>
+    <text x="14" y="55" fill="#E4E4E7" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="600">AWS Infrastructure</text>
+    <text x="14" y="72" fill="#8B949E" font-family="'Segoe UI', system-ui, sans-serif" font-size="11">Kubernetes • Terraform</text>
+  </g>
+
+  <!-- Card 8: PRODUCTION -->
+  <g transform="translate(40, 200)">
+    <rect width="170" height="90" rx="10" fill="url(#cardGrad)" stroke="#FF2020" stroke-width="1.8" filter="url(#crimsonGlow)" />
+    <rect x="0" y="0" width="170" height="3" fill="#FF2020" />
+    <rect x="14" y="14" width="28" height="18" rx="4" fill="#FF2020" />
+    <text x="28" y="27" fill="#FFFFFF" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" text-anchor="middle">08</text>
+    <text x="50" y="28" fill="#FFFFFF" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" font-weight="700">PRODUCTION 🚀</text>
+    <text x="14" y="55" fill="#FF8080" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="700">High Availability</text>
+    <text x="14" y="72" fill="#E4E4E7" font-family="'Segoe UI', system-ui, sans-serif" font-size="11">Monitoring &amp; Scale</text>
+  </g>
+</svg>
+

@@ -1,32 +1,31 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&text=GANESH%20A&fontSize=65&fontColor=FFFFFF&fontAlignY=42&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL%20STACK%20%7C%20CLOUD%20%26%20DEVOPS&descSize=14&descAlignY=65&color=0:09090B,50:18181B,100:312E81&animation=fadeIn" />
+<img width="100%" src="assets/ganesh-cinematic-red.png" alt="Ganesh A — Software Developer | Cinematic Red Showcase" />
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=A1A1AA&center=true&vCenter=true&width=850&lines=Building+Digital+Experiences.;Engineering+Real-World+Software.;Full+Stack+%7C+Mobile+%7C+Cloud+%7C+DevOps.;Build.+Learn.+Improve.+Repeat." alt="Developer introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=FF2020&center=true&vCenter=true&width=880&lines=Building+Digital+Experiences.;Engineering+Real-World+Software.;Full+Stack+%7C+Mobile+%7C+Cloud+%7C+DevOps.;Build.+Learn.+Improve.+Repeat." alt="Developer Introduction" />
 
 <br/><br/>
 
 <a href="https://www.ganeshdeveloper.in/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-0D0D11?style=for-the-badge&logo=googlechrome&logoColor=FF2020&labelColor=050505" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/ganesh-software-developer/">
-  <img src="https://img.shields.io/badge/LINKEDIN-18181B?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/LINKEDIN-0D0D11?style=for-the-badge&logo=linkedin&logoColor=FF2020&labelColor=050505" alt="LinkedIn" />
 </a>
 <a href="https://github.com/GANESHAATHI46">
-  <img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/GITHUB-0D0D11?style=for-the-badge&logo=github&logoColor=FF2020&labelColor=050505" alt="GitHub" />
 </a>
+<img src="https://komarev.com/ghpvc/?username=GANESHAATHI46&style=for-the-badge&color=8B0000&label=PROFILE+VIEWS" alt="Profile Views" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=GANESHAATHI46&style=flat-square&color=71717A&label=PROFILE+VIEWS" />
+<img width="100%" src="assets/section-divider.svg" alt="Section Divider" />
 
 </div>
 
----
-
-## 01 / About Me
+## 02 / About Me
 
 I'm **Ganesh A**, a Software Developer from Tamil Nadu, India.
 
@@ -60,42 +59,52 @@ developer:
   philosophy: "Build useful software. Make it reliable. Keep improving."
 ```
 
----
+<div align="center">
+  <img width="100%" src="assets/section-divider.svg" alt="Section Divider" />
+</div>
 
-## 02 / Technology Universe
+## 03 / Technology Universe
+
+<div align="center">
+  <img width="100%" src="assets/tech-showcase.svg" alt="Core Tech Radar" />
+</div>
+
+<br/>
 
 <div align="center">
 
 <p><strong>FRONTEND ENGINEERING</strong></p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vite,tailwind,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vite,tailwind,html,css&theme=dark" alt="Frontend Technologies" />
 
 <br/><br/>
 
 <p><strong>BACKEND ENGINEERING</strong></p>
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,laravel,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,laravel,nodejs&theme=dark" alt="Backend Technologies" />
 
 <br/><br/>
 
-<p><strong>DATABASES & CACHING</strong></p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis&theme=dark" />
+<p><strong>DATABASES &amp; CACHING</strong></p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis&theme=dark" alt="Databases and Caching" />
 
 <br/><br/>
 
-<p><strong>CLOUD & DEVOPS</strong></p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,nginx,githubactions&theme=dark" />
+<p><strong>CLOUD &amp; DEVOPS</strong></p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,nginx,githubactions&theme=dark" alt="Cloud and DevOps" />
 
 <br/><br/>
 
 <p><strong>DEVELOPMENT TOOLS</strong></p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" alt="Development Tools" />
 
 </div>
 
----
+<div align="center">
+  <img width="100%" src="assets/section-divider.svg" alt="Section Divider" />
+</div>
 
-## 03 / Engineering Capabilities
+## 04 / Engineering Capabilities
 
-| Domain | Technologies & Skills |
+| Domain | Technologies &amp; Skills |
 | :--- | :--- |
 | **Frontend** | React, React Native, TypeScript, JavaScript, Vite, Tailwind CSS |
 | **Backend** | Python, Django, DRF, FastAPI, Laravel, Node.js |
@@ -108,15 +117,14 @@ developer:
 | **Web Server** | Nginx |
 | **Architecture** | SaaS, API-driven systems, Modular Backend Design |
 
----
+<div align="center">
+  <img width="100%" src="assets/section-divider.svg" alt="Section Divider" />
+</div>
 
-## 04 / Featured Projects
-
-A collection of applications, platforms, automation tools and software engineering projects.
+## 05 / Featured Projects
 
 <div align="center">
-  <p><strong>PROJECT COLLECTION</strong></p>
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:71717A,50:A1A1AA,100:71717A" width="100%" />
+  <img width="100%" src="assets/project-header.svg" alt="Featured Projects Header" />
 </div>
 
 <br/>
@@ -341,68 +349,24 @@ A Tamil Nadu-inspired Unity game project featuring district-based environments a
 </tr>
 </table>
 
----
-
-## 05 / Developer Journey
-
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=65&text=IDEA%20%E2%86%92%20ENGINEERING%20%E2%86%92%20PRODUCTION&fontSize=18&fontColor=FFFFFF&color=0:18181B,50:27272A,100:312E81" />
+  <img width="100%" src="assets/section-divider.svg" alt="Section Divider" />
 </div>
 
-<br/>
-
-```text
-┌──────────────────────┐
-│         IDEA         │
-└──────────┬───────────┘
-           │
-           ▼
-┌──────────────────────┐
-│       UI / UX        │
-└──────────┬───────────┘
-           │
-           ▼
-┌──────────────────────┐
-│       FRONTEND       │
-│   React / React RN   │
-└──────────┬───────────┘
-           │
-           ▼
-┌──────────────────────┐
-│       BACKEND        │
-│   APIs / Services    │
-└──────────┬───────────┘
-           │
-           ▼
-┌──────────────────────┐
-│       DATABASE       │
-│  PostgreSQL / Redis  │
-└──────────┬───────────┘
-           │
-           ▼
-┌──────────────────────┐
-│        DEVOPS        │
-│   Docker / CI / CD   │
-└──────────┬───────────┘
-           │
-           ▼
-┌──────────────────────┐
-│        CLOUD         │
-│     AWS / Infra      │
-└──────────┬───────────┘
-           │
-           ▼
-┌──────────────────────┐
-│    PRODUCTION 🚀     │
-└──────────────────────┘
-```
-
----
-
-## 06 / Currently Learning
+## 06 / Developer Journey
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=A1A1AA&center=true&vCenter=true&width=800&lines=AWS+Cloud+Architecture;Docker+Containerization;Kubernetes+Orchestration;Terraform+Infrastructure+as+Code;Jenkins+%26+GitHub+Actions;DevSecOps+%26+Cloud+Security;System+Design+%26+Scalable+Architecture" />
+  <img width="100%" src="assets/developer-journey.svg" alt="Developer Journey — Idea to Production" />
+</div>
+
+<div align="center">
+  <img width="100%" src="assets/section-divider.svg" alt="Section Divider" />
+</div>
+
+## 07 / Currently Learning
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=FF2020&center=true&vCenter=true&width=800&lines=AWS+Cloud+Architecture;Docker+Containerization;Kubernetes+Orchestration;Terraform+Infrastructure+as+Code;Jenkins+%26+GitHub+Actions;DevSecOps+%26+Cloud+Security;System+Design+%26+Scalable+Architecture" alt="Currently Learning Typing SVG" />
 </div>
 
 <br/>
@@ -420,105 +384,92 @@ A Tamil Nadu-inspired Unity game project featuring district-based environments a
 
 <br/>
 
-#### Learning Roadmap
-
-```text
-Frontend Mastery
-       ↓
-Backend Architecture
-       ↓
-Database Design
-       ↓
-Docker
-       ↓
-CI / CD
-       ↓
-AWS
-       ↓
-Terraform
-       ↓
-Kubernetes
-       ↓
-DevSecOps
-       ↓
-System Design
-       ↓
-Production Engineering
-```
-
----
-
-## 07 / GitHub Analytics
-
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GANESHAATHI46&show_icons=true&hide_border=true&bg_color=09090B&title_color=FFFFFF&text_color=A1A1AA&icon_color=A78BFA&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GANESHAATHI46&layout=compact&hide_border=true&bg_color=09090B&title_color=FFFFFF&text_color=A1A1AA" />
-  <br/><br/>
-  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=GANESHAATHI46&theme=transparent&hide_border=true&background=09090B&ring=A78BFA&fire=FFFFFF&currStreakLabel=A1A1AA&sideLabels=A1A1AA&dates=71717A" />
+  <img width="100%" src="assets/learning-roadmap.svg" alt="Learning Roadmap" />
 </div>
 
----
+<div align="center">
+  <img width="100%" src="assets/section-divider.svg" alt="Section Divider" />
+</div>
 
-## 08 / Contribution Graph
+## 08 / GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GANESHAATHI46&show_icons=true&hide_border=true&bg_color=050505&title_color=FF2020&text_color=E4E4E7&icon_color=FF2020&rank_icon=github" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GANESHAATHI46&layout=compact&hide_border=true&bg_color=050505&title_color=FF2020&text_color=E4E4E7" alt="Top Languages" />
+  <br/><br/>
+  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=GANESHAATHI46&theme=transparent&hide_border=true&background=050505&ring=FF2020&fire=FF2020&currStreakLabel=E4E4E7&sideLabels=A1A1AA&dates=71717A" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="100%" src="assets/section-divider.svg" alt="Section Divider" />
+</div>
+
+## 09 / Contribution Graph
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/GANESHAATHI46/GANESHAATHI46/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
 </div>
 
----
+<div align="center">
+  <img width="100%" src="assets/section-divider.svg" alt="Section Divider" />
+</div>
 
-## 09 / Backend Engineering Focus
+## 10 / Backend Engineering
 
 I enjoy working with backend systems that include:
 
-- REST API architecture
-- Authentication and authorization
-- Role-based access control
-- PostgreSQL schema design
-- Redis caching
-- File uploads
-- API documentation
-- Data validation
-- Error handling
-- Logging
-- Rate limiting
-- Deployment-ready configuration
+- REST API architecture &amp; modular services
+- Authentication, authorization &amp; session tokens
+- Role-based access control (RBAC)
+- PostgreSQL schema modeling &amp; query optimization
+- Redis caching &amp; high-performance memory stores
+- Secure file storage &amp; image upload pipelines
+- Comprehensive API documentation (Swagger / OpenAPI)
+- Input data validation &amp; sanitization
+- Structured error handling &amp; centralized logging
+- API rate limiting &amp; security protections
+- Production-ready containerization
 
----
+<div align="center">
+  <img width="100%" src="assets/section-divider.svg" alt="Section Divider" />
+</div>
 
-## 10 / Frontend Engineering Focus
+## 11 / Frontend Engineering
 
 My frontend development approach focuses on:
 
-- Responsive interfaces
-- Reusable components
-- Modern layouts
-- Performance optimization
-- Accessibility
-- API integration
-- Loading and error states
-- Mobile responsiveness
-- Clean visual hierarchy
-- Production-ready UI
+- Responsive interfaces across mobile, tablet, and desktop
+- Reusable, maintainable component systems
+- Modern layouts using Tailwind CSS and CSS Grid / Flexbox
+- Performance optimization &amp; bundle size efficiency
+- Web accessibility (WCAG standards &amp; semantic tags)
+- Type-safe API integrations
+- Smooth loading skeletons &amp; error boundary handling
+- Clean visual hierarchy &amp; typography
+- High-fidelity production UI
 
----
+<div align="center">
+  <img width="100%" src="assets/section-divider.svg" alt="Section Divider" />
+</div>
 
-## 11 / Mobile Development
+## 12 / Mobile Development
 
-Technologies and practices:
+Cross-platform mobile development technologies and practices:
 
-- React Native
-- Expo
-- TypeScript
-- SQLite
-- Offline-first workflows
-- Local data persistence
-- PDF / CSV export
-- Tamil-focused interfaces
+- React Native &amp; Expo ecosystems
+- Type-safe application logic with TypeScript
+- Offline-first SQLite local architecture
+- Local data persistence &amp; state management
+- Document generation (PDF &amp; CSV exports)
+- Camera &amp; OCR-assisted document entries
+- Tamil-focused localized user interfaces
 
----
+<div align="center">
+  <img width="100%" src="assets/section-divider.svg" alt="Section Divider" />
+</div>
 
-## 12 / Development Principles
+## 13 / Development Principles
 
 ```javascript
 const engineeringPrinciples = [
@@ -536,102 +487,94 @@ const engineeringPrinciples = [
 const mindset = "Build → Learn → Improve → Repeat";
 ```
 
----
+<div align="center">
+  <img width="100%" src="assets/section-divider.svg" alt="Section Divider" />
+</div>
 
-## 13 / Cloud & DevOps Workflow
+## 14 / Cloud & DevOps
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,aws,nginx&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,aws,nginx&theme=dark" alt="DevOps Tools" />
 </div>
 
 <br/>
 
-```text
-Source Code
-    ↓
-Git / GitHub
-    ↓
-Automated Testing
-    ↓
-Docker Image
-    ↓
-CI Pipeline
-    ↓
-Security Checks
-    ↓
-Deployment
-    ↓
-Cloud Infrastructure
-    ↓
-Monitoring
-    ↓
-Production
-```
+<div align="center">
+  <img width="100%" src="assets/devops-pipeline.svg" alt="DevOps Pipeline Workflow" />
+</div>
+
+<br/>
 
 **Technologies I'm exploring:**
 
-`Docker` `Kubernetes` `Helm` `Terraform` `Jenkins` `GitHub Actions` `AWS` `Nginx` `Linux`
+`Docker` &bull; `Kubernetes` &bull; `Helm` &bull; `Terraform` &bull; `Jenkins` &bull; `GitHub Actions` &bull; `AWS` &bull; `Nginx` &bull; `Linux`
 
----
+<div align="center">
+  <img width="100%" src="assets/section-divider.svg" alt="Section Divider" />
+</div>
 
-## 14 / Goals & Vision
+## 15 / Goals & Vision
 
 ```text
 Short-Term Goals
 ├── Strengthen Full Stack Development
-├── Improve AWS knowledge
-├── Practice Docker and Kubernetes
-├── Learn Terraform deeply
-├── Build production CI/CD pipelines
-└── Improve system design
+├── Improve AWS cloud architecture knowledge
+├── Master Docker containerization & Kubernetes orchestration
+├── Learn Terraform infrastructure-as-code deeply
+├── Build automated production CI/CD pipelines
+└── Elevate distributed system design skills
 
 Long-Term Goals
-├── Build scalable SaaS products
-├── Become strong in Cloud and DevOps
-├── Design reliable production systems
-├── Contribute to larger engineering projects
-└── Keep shipping useful products
+├── Build scalable SaaS products from zero to production
+├── Become a distinguished Cloud & DevOps Engineer
+├── Architect high-availability production systems
+├── Lead and contribute to impactful open-source initiatives
+└── Continuously engineer useful, reliable digital products
 ```
 
----
+<div align="center">
+  <img width="100%" src="assets/section-divider.svg" alt="Section Divider" />
+</div>
 
-## 15 / Open To Collaborations
+## 16 / Open To Collaborations
 
 - Full Stack Development
-- Frontend Development
-- Backend Development
-- React / React Native projects
-- Python backend projects
-- Laravel projects
-- Cloud & DevOps collaborations
-- SaaS product development
-- Developer tools
-- Automation projects
+- Frontend Development (React, Next.js, Vite, Tailwind CSS)
+- Backend Development (Python, FastAPI, Django, Laravel, Node.js)
+- Mobile Applications (React Native, Expo)
+- Cloud &amp; DevOps collaborations (AWS, Docker, CI/CD)
+- SaaS Product Development &amp; Prototyping
+- Open Source Developer Tools
+- Web Scraping &amp; Automation Systems
 
----
+<div align="center">
+  <img width="100%" src="assets/section-divider.svg" alt="Section Divider" />
+</div>
 
-## 16 / Connect With Me
+## 17 / Connect With Me
 
 <div align="center">
   <a href="https://www.ganeshdeveloper.in/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-18181B?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-0D0D11?style=for-the-badge&logo=googlechrome&logoColor=FF2020&labelColor=050505" alt="Portfolio Website" />
   </a>
   <a href="https://www.linkedin.com/in/ganesh-software-developer/">
-    <img src="https://img.shields.io/badge/LINKEDIN-Connect-18181B?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/LINKEDIN-Connect-0D0D11?style=for-the-badge&logo=linkedin&logoColor=FF2020&labelColor=050505" alt="LinkedIn Profile" />
   </a>
   <a href="https://github.com/GANESHAATHI46">
-    <img src="https://img.shields.io/badge/GITHUB-Follow-18181B?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/GITHUB-Follow-0D0D11?style=for-the-badge&logo=github&logoColor=FF2020&labelColor=050505" alt="GitHub Profile" />
   </a>
 
   <br/><br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=A1A1AA&center=true&vCenter=true&width=750&lines=Building+Useful+Things.;Learning+Every+Day.;Turning+Ideas+Into+Products.;Engineering+Better+Software." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=FF2020&center=true&vCenter=true&width=750&lines=Building+Useful+Things.;Learning+Every+Day.;Turning+Ideas+Into+Products.;Engineering+Better+Software." alt="Connect Typing SVG" />
+</div>
 
-  <br/><br/>
+<div align="center">
+  <img width="100%" src="assets/section-divider.svg" alt="Section Divider" />
+</div>
 
-  ### BUILD · LEARN · IMPROVE · REPEAT
+## 18 / Cinematic Footer
 
-  <br/>
-
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=110&section=footer&color=0:09090B,50:18181B,100:312E81" />
+<div align="center">
+  <img width="100%" src="assets/cinematic-footer.svg" alt="Cinematic Footer — Engineering A Better Tomorrow" />
 </div>

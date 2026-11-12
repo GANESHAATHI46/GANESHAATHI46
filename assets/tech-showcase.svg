@@ -1,0 +1,144 @@
+<svg width="940" height="150" viewBox="0 0 940 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="techBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#101016" />
+      <stop offset="50%" stop-color="#09090C" />
+      <stop offset="100%" stop-color="#050507" />
+    </linearGradient>
+    <linearGradient id="neonGlowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF2020" />
+      <stop offset="50%" stop-color="#FF5555" />
+      <stop offset="100%" stop-color="#8B0000" />
+    </linearGradient>
+    <filter id="neonBlur" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="2" y="2" width="936" height="146" rx="14" fill="url(#techBg)" stroke="#220609" stroke-width="1.5" />
+  <rect x="6" y="6" width="928" height="138" rx="10" stroke="#FF2020" stroke-opacity="0.12" stroke-width="1" />
+
+  <!-- Top Laser Accent -->
+  <line x1="40" y1="2" x2="900" y2="2" stroke="url(#neonGlowGrad)" stroke-width="2" />
+
+  <!-- Title Pill -->
+  <g transform="translate(30, 18)">
+    <rect width="180" height="26" rx="5" fill="#200407" stroke="#FF2020" stroke-width="1" />
+    <circle cx="16" cy="13" r="4" fill="#FF2020" filter="url(#neonBlur)" />
+    <text x="28" y="17" fill="#FFFFFF" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700">CORE TECH RADAR</text>
+  </g>
+
+  <text x="890" y="34" fill="#8B949E" font-family="'Segoe UI', sans-serif" font-size="11" text-anchor="end">Production Stack &amp; Cloud Ready</text>
+
+  <!-- Row 1: Frontend & Mobile -->
+  <!-- Badge 1: React -->
+  <g transform="translate(30, 58)">
+    <rect width="100" height="34" rx="6" fill="#14141C" stroke="#3A080D" stroke-width="1" />
+    <circle cx="16" cy="17" r="4" fill="#FF2020" />
+    <text x="28" y="21" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="700">React</text>
+  </g>
+
+  <!-- Badge 2: Next.js -->
+  <g transform="translate(140, 58)">
+    <rect width="105" height="34" rx="6" fill="#14141C" stroke="#3A080D" stroke-width="1" />
+    <circle cx="16" cy="17" r="4" fill="#FF2020" />
+    <text x="28" y="21" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="700">Next.js</text>
+  </g>
+
+  <!-- Badge 3: TypeScript -->
+  <g transform="translate(255, 58)">
+    <rect width="125" height="34" rx="6" fill="#14141C" stroke="#3A080D" stroke-width="1" />
+    <circle cx="16" cy="17" r="4" fill="#FF2020" />
+    <text x="28" y="21" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="700">TypeScript</text>
+  </g>
+
+  <!-- Badge 4: React Native -->
+  <g transform="translate(390, 58)">
+    <rect width="135" height="34" rx="6" fill="#14141C" stroke="#3A080D" stroke-width="1" />
+    <circle cx="16" cy="17" r="4" fill="#FF2020" />
+    <text x="28" y="21" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="700">React Native</text>
+  </g>
+
+  <!-- Badge 5: Tailwind CSS -->
+  <g transform="translate(535, 58)">
+    <rect width="130" height="34" rx="6" fill="#14141C" stroke="#3A080D" stroke-width="1" />
+    <circle cx="16" cy="17" r="4" fill="#FF2020" />
+    <text x="28" y="21" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="700">Tailwind CSS</text>
+  </g>
+
+  <!-- Badge 6: Vite -->
+  <g transform="translate(675, 58)">
+    <rect width="90" height="34" rx="6" fill="#14141C" stroke="#3A080D" stroke-width="1" />
+    <circle cx="16" cy="17" r="4" fill="#FF2020" />
+    <text x="28" y="21" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="700">Vite</text>
+  </g>
+
+  <!-- Badge 7: Node.js -->
+  <g transform="translate(775, 58)">
+    <rect width="135" height="34" rx="6" fill="#14141C" stroke="#3A080D" stroke-width="1" />
+    <circle cx="16" cy="17" r="4" fill="#FF2020" />
+    <text x="28" y="21" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="700">Node.js</text>
+  </g>
+
+  <!-- Row 2: Backend, DB & Cloud -->
+  <!-- Badge 8: Python -->
+  <g transform="translate(30, 102)">
+    <rect width="100" height="34" rx="6" fill="#14141C" stroke="#FF2020" stroke-width="1.2" />
+    <circle cx="16" cy="17" r="4" fill="#FF2020" filter="url(#neonBlur)" />
+    <text x="28" y="21" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="700">Python</text>
+  </g>
+
+  <!-- Badge 9: FastAPI -->
+  <g transform="translate(140, 102)">
+    <rect width="105" height="34" rx="6" fill="#14141C" stroke="#FF2020" stroke-width="1.2" />
+    <circle cx="16" cy="17" r="4" fill="#FF2020" filter="url(#neonBlur)" />
+    <text x="28" y="21" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="700">FastAPI</text>
+  </g>
+
+  <!-- Badge 10: Django -->
+  <g transform="translate(255, 102)">
+    <rect width="105" height="34" rx="6" fill="#14141C" stroke="#3A080D" stroke-width="1" />
+    <circle cx="16" cy="17" r="4" fill="#FF2020" />
+    <text x="28" y="21" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="700">Django</text>
+  </g>
+
+  <!-- Badge 11: Laravel -->
+  <g transform="translate(370, 102)">
+    <rect width="105" height="34" rx="6" fill="#14141C" stroke="#3A080D" stroke-width="1" />
+    <circle cx="16" cy="17" r="4" fill="#FF2020" />
+    <text x="28" y="21" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="700">Laravel</text>
+  </g>
+
+  <!-- Badge 12: PostgreSQL -->
+  <g transform="translate(485, 102)">
+    <rect width="125" height="34" rx="6" fill="#14141C" stroke="#3A080D" stroke-width="1" />
+    <circle cx="16" cy="17" r="4" fill="#FF2020" />
+    <text x="28" y="21" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="700">PostgreSQL</text>
+  </g>
+
+  <!-- Badge 13: Redis -->
+  <g transform="translate(620, 102)">
+    <rect width="90" height="34" rx="6" fill="#14141C" stroke="#3A080D" stroke-width="1" />
+    <circle cx="16" cy="17" r="4" fill="#FF2020" />
+    <text x="28" y="21" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="700">Redis</text>
+  </g>
+
+  <!-- Badge 14: Docker -->
+  <g transform="translate(720, 102)">
+    <rect width="95" height="34" rx="6" fill="#14141C" stroke="#FF2020" stroke-width="1.2" />
+    <circle cx="16" cy="17" r="4" fill="#FF2020" filter="url(#neonBlur)" />
+    <text x="28" y="21" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="700">Docker</text>
+  </g>
+
+  <!-- Badge 15: AWS -->
+  <g transform="translate(825, 102)">
+    <rect width="85" height="34" rx="6" fill="#14141C" stroke="#FF2020" stroke-width="1.2" />
+    <circle cx="16" cy="17" r="4" fill="#FF2020" filter="url(#neonBlur)" />
+    <text x="28" y="21" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="700">AWS</text>
+  </g>
+</svg>
+

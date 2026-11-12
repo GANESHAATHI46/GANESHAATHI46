@@ -1,0 +1,53 @@
+<svg width="940" height="70" viewBox="0 0 940 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="projBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#180407" />
+      <stop offset="30%" stop-color="#0E0E14" />
+      <stop offset="70%" stop-color="#0E0E14" />
+      <stop offset="100%" stop-color="#180407" />
+    </linearGradient>
+    <linearGradient id="projLaser" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF2020" stop-opacity="0" />
+      <stop offset="25%" stop-color="#8B0000" />
+      <stop offset="50%" stop-color="#FF2020" />
+      <stop offset="75%" stop-color="#8B0000" />
+      <stop offset="100%" stop-color="#FF2020" stop-opacity="0" />
+    </linearGradient>
+    <filter id="pGlowFilt" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="2" y="2" width="936" height="66" rx="10" fill="url(#projBg)" stroke="#2D060B" stroke-width="1.5" />
+  
+  <!-- Left icon accent -->
+  <g transform="translate(24, 16)">
+    <rect width="36" height="36" rx="8" fill="#200407" stroke="#FF2020" stroke-width="1.2" filter="url(#pGlowFilt)" />
+    <!-- Stylized 3D cube / diamond icon -->
+    <path d="M 18 8 L 29 14 L 18 20 L 7 14 Z" fill="#FF4444" />
+    <path d="M 7 14 L 18 20 L 18 30 L 7 24 Z" fill="#8B0000" />
+    <path d="M 29 14 L 18 20 L 18 30 L 29 24 Z" fill="#FF2020" />
+  </g>
+
+  <text x="76" y="33" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="16" font-weight="800" letter-spacing="1.5">
+    FEATURED PROJECTS
+  </text>
+  <text x="76" y="49" fill="#8B949E" font-family="'Segoe UI', sans-serif" font-size="11">
+    Commercial Applications, Platforms, Automation Systems &amp; Developer Tools
+  </text>
+
+  <!-- Right Pill -->
+  <g transform="translate(760, 20)">
+    <rect width="156" height="28" rx="6" fill="#180407" stroke="#FF2020" stroke-width="1" />
+    <circle cx="16" cy="14" r="3.5" fill="#FF2020" filter="url(#pGlowFilt)" />
+    <text x="28" y="18" fill="#E4E4E7" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700">10 SHOWCASES</text>
+  </g>
+
+  <!-- Bottom Laser Line -->
+  <line x1="20" y1="67" x2="920" y2="67" stroke="url(#projLaser)" stroke-width="1.5" />
+</svg>
+

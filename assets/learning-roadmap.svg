@@ -1,0 +1,136 @@
+<svg width="940" height="230" viewBox="0 0 940 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="roadBgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0E0E14" />
+      <stop offset="100%" stop-color="#060608" />
+    </linearGradient>
+    <linearGradient id="pillGradActive" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2A050B" />
+      <stop offset="100%" stop-color="#140205" />
+    </linearGradient>
+    <linearGradient id="pillGradTarget" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#181822" />
+      <stop offset="100%" stop-color="#0B0B10" />
+    </linearGradient>
+    <filter id="nodeGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <marker id="arrowRed" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#FF2020" />
+    </marker>
+  </defs>
+
+  <!-- Frame -->
+  <rect x="2" y="2" width="936" height="226" rx="12" fill="url(#roadBgGrad)" stroke="#200508" stroke-width="1.5" />
+  <rect x="6" y="6" width="928" height="218" rx="8" stroke="#FF2020" stroke-opacity="0.1" stroke-width="1" />
+
+  <!-- Title Pill -->
+  <rect x="24" y="16" width="160" height="24" rx="4" fill="#200408" stroke="#8B0000" stroke-width="1" />
+  <circle cx="36" cy="28" r="4" fill="#FF2020" filter="url(#nodeGlow)" />
+  <text x="48" y="32" fill="#E4E4E7" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700">LEARNING ROADMAP</text>
+
+  <!-- Status Legend -->
+  <circle cx="710" cy="28" r="3.5" fill="#FF2020" />
+  <text x="720" y="32" fill="#A1A1AA" font-family="'Segoe UI', sans-serif" font-size="11">Core Competency</text>
+  <circle cx="830" cy="28" r="3.5" fill="#8B0000" stroke="#FF2020" stroke-width="0.8" />
+  <text x="840" y="32" fill="#A1A1AA" font-family="'Segoe UI', sans-serif" font-size="11">Active Expansion</text>
+
+  <!-- ROW 1 (Steps 1 to 6) -->
+  <!-- Connector line behind pills -->
+  <line x1="85" y1="85" x2="850" y2="85" stroke="#4A0810" stroke-width="2" stroke-dasharray="4,3" />
+
+  <!-- Pill 1: Frontend -->
+  <g transform="translate(24, 60)">
+    <rect width="130" height="50" rx="8" fill="url(#pillGradActive)" stroke="#FF2020" stroke-width="1.2" />
+    <text x="12" y="22" fill="#FF2020" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700">STAGE 01</text>
+    <text x="12" y="38" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600">Frontend</text>
+  </g>
+  <path d="M 154 85 L 174 85" stroke="#FF2020" stroke-width="2" marker-end="url(#arrowRed)" />
+
+  <!-- Pill 2: Backend -->
+  <g transform="translate(176, 60)">
+    <rect width="130" height="50" rx="8" fill="url(#pillGradActive)" stroke="#FF2020" stroke-width="1.2" />
+    <text x="12" y="22" fill="#FF2020" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700">STAGE 02</text>
+    <text x="12" y="38" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600">Backend Arch</text>
+  </g>
+  <path d="M 306 85 L 326 85" stroke="#FF2020" stroke-width="2" marker-end="url(#arrowRed)" />
+
+  <!-- Pill 3: Database -->
+  <g transform="translate(328, 60)">
+    <rect width="130" height="50" rx="8" fill="url(#pillGradActive)" stroke="#FF2020" stroke-width="1.2" />
+    <text x="12" y="22" fill="#FF2020" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700">STAGE 03</text>
+    <text x="12" y="38" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600">Database Design</text>
+  </g>
+  <path d="M 458 85 L 478 85" stroke="#FF2020" stroke-width="2" marker-end="url(#arrowRed)" />
+
+  <!-- Pill 4: Docker -->
+  <g transform="translate(480, 60)">
+    <rect width="130" height="50" rx="8" fill="url(#pillGradActive)" stroke="#FF2020" stroke-width="1.2" />
+    <text x="12" y="22" fill="#FF2020" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700">STAGE 04</text>
+    <text x="12" y="38" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600">Docker</text>
+  </g>
+  <path d="M 610 85 L 630 85" stroke="#FF2020" stroke-width="2" marker-end="url(#arrowRed)" />
+
+  <!-- Pill 5: CI / CD -->
+  <g transform="translate(632, 60)">
+    <rect width="130" height="50" rx="8" fill="url(#pillGradActive)" stroke="#FF2020" stroke-width="1.2" />
+    <text x="12" y="22" fill="#FF2020" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700">STAGE 05</text>
+    <text x="12" y="38" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600">CI / CD</text>
+  </g>
+  <path d="M 762 85 L 782 85" stroke="#FF2020" stroke-width="2" marker-end="url(#arrowRed)" />
+
+  <!-- Pill 6: AWS -->
+  <g transform="translate(784, 60)">
+    <rect width="130" height="50" rx="8" fill="url(#pillGradTarget)" stroke="#FF2020" stroke-width="1.5" filter="url(#nodeGlow)" />
+    <text x="12" y="22" fill="#FF2020" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700">STAGE 06</text>
+    <text x="12" y="38" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="700">AWS Cloud</text>
+  </g>
+
+  <!-- Transition track row 1 to row 2 -->
+  <path d="M 850 110 L 850 135 Q 850 145 835 145 L 85 145" stroke="#8B0000" stroke-width="1.5" stroke-dasharray="4,3" fill="none" />
+
+  <!-- ROW 2 (Steps 7 to 11) -->
+  <!-- Pill 7: Terraform -->
+  <g transform="translate(24, 155)">
+    <rect width="165" height="50" rx="8" fill="url(#pillGradTarget)" stroke="#8B0000" stroke-width="1.2" />
+    <text x="12" y="22" fill="#FF8080" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700">STAGE 07</text>
+    <text x="12" y="38" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600">Terraform (IaC)</text>
+  </g>
+  <path d="M 189 180 L 209 180" stroke="#FF2020" stroke-width="2" marker-end="url(#arrowRed)" />
+
+  <!-- Pill 8: Kubernetes -->
+  <g transform="translate(211, 155)">
+    <rect width="165" height="50" rx="8" fill="url(#pillGradTarget)" stroke="#8B0000" stroke-width="1.2" />
+    <text x="12" y="22" fill="#FF8080" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700">STAGE 08</text>
+    <text x="12" y="38" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600">Kubernetes</text>
+  </g>
+  <path d="M 376 180 L 396 180" stroke="#FF2020" stroke-width="2" marker-end="url(#arrowRed)" />
+
+  <!-- Pill 9: DevSecOps -->
+  <g transform="translate(398, 155)">
+    <rect width="165" height="50" rx="8" fill="url(#pillGradTarget)" stroke="#8B0000" stroke-width="1.2" />
+    <text x="12" y="22" fill="#FF8080" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700">STAGE 09</text>
+    <text x="12" y="38" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600">DevSecOps</text>
+  </g>
+  <path d="M 563 180 L 583 180" stroke="#FF2020" stroke-width="2" marker-end="url(#arrowRed)" />
+
+  <!-- Pill 10: System Design -->
+  <g transform="translate(585, 155)">
+    <rect width="165" height="50" rx="8" fill="url(#pillGradTarget)" stroke="#8B0000" stroke-width="1.2" />
+    <text x="12" y="22" fill="#FF8080" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700">STAGE 10</text>
+    <text x="12" y="38" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600">System Design</text>
+  </g>
+  <path d="M 750 180 L 770 180" stroke="#FF2020" stroke-width="2" marker-end="url(#arrowRed)" />
+
+  <!-- Pill 11: Production Engineering -->
+  <g transform="translate(772, 155)">
+    <rect width="142" height="50" rx="8" fill="url(#pillGradTarget)" stroke="#FF2020" stroke-width="1.5" filter="url(#nodeGlow)" />
+    <text x="12" y="22" fill="#FF2020" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700">STAGE 11 🚀</text>
+    <text x="12" y="38" fill="#FFFFFF" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="700">Production Eng</text>
+  </g>
+</svg>
+
