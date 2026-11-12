@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="assets/ganesh-cinematic-red.png" alt="Ganesh A — Software Developer | Cinematic Red Showcase" />
+<img width="100%" src="assets/3d/hero-animation.gif" alt="Ganesh A Cinematic 3D Developer Banner" />
 
 <br/><br/>
 
@@ -21,11 +21,17 @@
 
 <br/><br/>
 
-<img width="100%" src="assets/section-divider.svg" alt="Section Divider" />
+<img width="100%" src="assets/static/section-separators.svg" alt="Section Separator" />
 
 </div>
 
 ## 02 / About Me
+
+<div align="center">
+  <img width="380" src="assets/3d/chrome-sphere.gif" alt="Rotating 3D Chrome Sphere Core" />
+</div>
+
+<br/>
 
 I'm **Ganesh A**, a Software Developer from Tamil Nadu, India.
 
@@ -60,13 +66,13 @@ developer:
 ```
 
 <div align="center">
-  <img width="100%" src="assets/section-divider.svg" alt="Section Divider" />
+  <img width="100%" src="assets/static/section-separators.svg" alt="Section Separator" />
 </div>
 
-## 03 / Technology Universe
+## 03 / 3D Technology Universe
 
 <div align="center">
-  <img width="100%" src="assets/tech-showcase.svg" alt="Core Tech Radar" />
+  <img width="100%" src="assets/3d/tech-universe.gif" alt="3D Floating Technology Universe" />
 </div>
 
 <br/>
@@ -99,7 +105,7 @@ developer:
 </div>
 
 <div align="center">
-  <img width="100%" src="assets/section-divider.svg" alt="Section Divider" />
+  <img width="100%" src="assets/static/section-separators.svg" alt="Section Separator" />
 </div>
 
 ## 04 / Engineering Capabilities
@@ -118,13 +124,13 @@ developer:
 | **Architecture** | SaaS, API-driven systems, Modular Backend Design |
 
 <div align="center">
-  <img width="100%" src="assets/section-divider.svg" alt="Section Divider" />
+  <img width="100%" src="assets/static/section-separators.svg" alt="Section Separator" />
 </div>
 
-## 05 / Featured Projects
+## 05 / 3D Featured Projects
 
 <div align="center">
-  <img width="100%" src="assets/project-header.svg" alt="Featured Projects Header" />
+  <img width="100%" src="assets/3d/project-showcase.gif" alt="3D Project Showcase Carousel" />
 </div>
 
 <br/>
@@ -350,17 +356,17 @@ A Tamil Nadu-inspired Unity game project featuring district-based environments a
 </table>
 
 <div align="center">
-  <img width="100%" src="assets/section-divider.svg" alt="Section Divider" />
+  <img width="100%" src="assets/static/section-separators.svg" alt="Section Separator" />
 </div>
 
 ## 06 / Developer Journey
 
 <div align="center">
-  <img width="100%" src="assets/developer-journey.svg" alt="Developer Journey — Idea to Production" />
+  <img width="100%" src="assets/3d/developer-journey.gif" alt="Animated 3D Developer Journey" />
 </div>
 
 <div align="center">
-  <img width="100%" src="assets/section-divider.svg" alt="Section Divider" />
+  <img width="100%" src="assets/static/section-separators.svg" alt="Section Separator" />
 </div>
 
 ## 07 / Currently Learning
@@ -382,14 +388,8 @@ A Tamil Nadu-inspired Unity game project featuring district-based environments a
 | **DevSecOps** | Security integration |
 | **System Design** | Scalable architecture |
 
-<br/>
-
 <div align="center">
-  <img width="100%" src="assets/learning-roadmap.svg" alt="Learning Roadmap" />
-</div>
-
-<div align="center">
-  <img width="100%" src="assets/section-divider.svg" alt="Section Divider" />
+  <img width="100%" src="assets/static/section-separators.svg" alt="Section Separator" />
 </div>
 
 ## 08 / GitHub Analytics
@@ -402,17 +402,17 @@ A Tamil Nadu-inspired Unity game project featuring district-based environments a
 </div>
 
 <div align="center">
-  <img width="100%" src="assets/section-divider.svg" alt="Section Divider" />
+  <img width="100%" src="assets/static/section-separators.svg" alt="Section Separator" />
 </div>
 
-## 09 / Contribution Graph
+## 09 / Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/GANESHAATHI46/GANESHAATHI46/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
 </div>
 
 <div align="center">
-  <img width="100%" src="assets/section-divider.svg" alt="Section Divider" />
+  <img width="100%" src="assets/static/section-separators.svg" alt="Section Separator" />
 </div>
 
 ## 10 / Backend Engineering
@@ -432,7 +432,7 @@ I enjoy working with backend systems that include:
 - Production-ready containerization
 
 <div align="center">
-  <img width="100%" src="assets/section-divider.svg" alt="Section Divider" />
+  <img width="100%" src="assets/static/section-separators.svg" alt="Section Separator" />
 </div>
 
 ## 11 / Frontend Engineering
@@ -450,7 +450,7 @@ My frontend development approach focuses on:
 - High-fidelity production UI
 
 <div align="center">
-  <img width="100%" src="assets/section-divider.svg" alt="Section Divider" />
+  <img width="100%" src="assets/static/section-separators.svg" alt="Section Separator" />
 </div>
 
 ## 12 / Mobile Development
@@ -466,10 +466,48 @@ Cross-platform mobile development technologies and practices:
 - Tamil-focused localized user interfaces
 
 <div align="center">
-  <img width="100%" src="assets/section-divider.svg" alt="Section Divider" />
+  <img width="100%" src="assets/static/section-separators.svg" alt="Section Separator" />
 </div>
 
-## 13 / Development Principles
+## 13 / Cloud & DevOps
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,aws,nginx&theme=dark" alt="DevOps Tools" />
+</div>
+
+<br/>
+
+```text
+Source Code
+    ↓
+Git / GitHub
+    ↓
+Automated Testing
+    ↓
+Docker Image
+    ↓
+CI Pipeline
+    ↓
+Security Checks
+    ↓
+Deployment
+    ↓
+Cloud Infrastructure
+    ↓
+Monitoring
+    ↓
+Production
+```
+
+**Technologies I'm exploring:**
+
+`Docker` &bull; `Kubernetes` &bull; `Helm` &bull; `Terraform` &bull; `Jenkins` &bull; `GitHub Actions` &bull; `AWS` &bull; `Nginx` &bull; `Linux`
+
+<div align="center">
+  <img width="100%" src="assets/static/section-separators.svg" alt="Section Separator" />
+</div>
+
+## 14 / Development Principles
 
 ```javascript
 const engineeringPrinciples = [
@@ -488,29 +526,7 @@ const mindset = "Build → Learn → Improve → Repeat";
 ```
 
 <div align="center">
-  <img width="100%" src="assets/section-divider.svg" alt="Section Divider" />
-</div>
-
-## 14 / Cloud & DevOps
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,aws,nginx&theme=dark" alt="DevOps Tools" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="assets/devops-pipeline.svg" alt="DevOps Pipeline Workflow" />
-</div>
-
-<br/>
-
-**Technologies I'm exploring:**
-
-`Docker` &bull; `Kubernetes` &bull; `Helm` &bull; `Terraform` &bull; `Jenkins` &bull; `GitHub Actions` &bull; `AWS` &bull; `Nginx` &bull; `Linux`
-
-<div align="center">
-  <img width="100%" src="assets/section-divider.svg" alt="Section Divider" />
+  <img width="100%" src="assets/static/section-separators.svg" alt="Section Separator" />
 </div>
 
 ## 15 / Goals & Vision
@@ -533,7 +549,7 @@ Long-Term Goals
 ```
 
 <div align="center">
-  <img width="100%" src="assets/section-divider.svg" alt="Section Divider" />
+  <img width="100%" src="assets/static/section-separators.svg" alt="Section Separator" />
 </div>
 
 ## 16 / Open To Collaborations
@@ -548,7 +564,7 @@ Long-Term Goals
 - Web Scraping &amp; Automation Systems
 
 <div align="center">
-  <img width="100%" src="assets/section-divider.svg" alt="Section Divider" />
+  <img width="100%" src="assets/static/section-separators.svg" alt="Section Separator" />
 </div>
 
 ## 17 / Connect With Me
@@ -570,11 +586,11 @@ Long-Term Goals
 </div>
 
 <div align="center">
-  <img width="100%" src="assets/section-divider.svg" alt="Section Divider" />
+  <img width="100%" src="assets/static/section-separators.svg" alt="Section Separator" />
 </div>
 
-## 18 / Cinematic Footer
+## 18 / Cinematic 3D Footer
 
 <div align="center">
-  <img width="100%" src="assets/cinematic-footer.svg" alt="Cinematic Footer — Engineering A Better Tomorrow" />
+  <img width="100%" src="assets/3d/footer-animation.gif" alt="Cinematic 3D Footer — Build Learn Improve Repeat" />
 </div>

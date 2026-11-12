@@ -1,0 +1,46 @@
+<svg width="1000" height="28" viewBox="0 0 1000 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="laserGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF2020" stop-opacity="0" />
+      <stop offset="20%" stop-color="#8B0000" stop-opacity="0.3" />
+      <stop offset="45%" stop-color="#FF2020" stop-opacity="0.9" />
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="1" />
+      <stop offset="55%" stop-color="#FF2020" stop-opacity="0.9" />
+      <stop offset="80%" stop-color="#8B0000" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#FF2020" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="glowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF2020" stop-opacity="0" />
+      <stop offset="35%" stop-color="#FF2020" stop-opacity="0.4" />
+      <stop offset="50%" stop-color="#FF2020" stop-opacity="0.8" />
+      <stop offset="65%" stop-color="#FF2020" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#FF2020" stop-opacity="0" />
+    </linearGradient>
+    <filter id="laserGlow" x="-20%" y="-100%" width="140%" height="300%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Ambient Glow Line -->
+  <line x1="100" y1="14" x2="900" y2="14" stroke="url(#glowGrad)" stroke-width="6" filter="url(#laserGlow)" />
+
+  <!-- Core Laser Line -->
+  <line x1="50" y1="14" x2="950" y2="14" stroke="url(#laserGrad)" stroke-width="1.5" />
+
+  <!-- Central Metallic Node -->
+  <rect x="492" y="6" width="16" height="16" rx="2" transform="rotate(45 500 14)" fill="#0A0A0E" stroke="#FF2020" stroke-width="1.5" />
+  <rect x="496" y="10" width="8" height="8" rx="1" transform="rotate(45 500 14)" fill="#FF2020" />
+  <circle cx="500" cy="14" r="2" fill="#FFFFFF" />
+
+  <!-- Secondary Diamond Accents -->
+  <rect x="346" y="11" width="6" height="6" rx="1" transform="rotate(45 349 14)" fill="#8B0000" stroke="#FF2020" stroke-width="0.8" />
+  <rect x="648" y="11" width="6" height="6" rx="1" transform="rotate(45 651 14)" fill="#8B0000" stroke="#FF2020" stroke-width="0.8" />
+
+  <circle cx="200" cy="14" r="1.5" fill="#FF2020" opacity="0.7" />
+  <circle cx="800" cy="14" r="1.5" fill="#FF2020" opacity="0.7" />
+</svg>
+
